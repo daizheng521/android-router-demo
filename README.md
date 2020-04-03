@@ -1,3 +1,6 @@
+具体详情查看：
+掘金：https://juejin.im/post/5e869d536fb9a03c903784af
+
 本文是基于WMRouter，重新设计了我们公司云教室APP业务模式
 
 一、页面路由架构
